@@ -8,6 +8,10 @@
   git clone https://github.com/saad5112/Property_lesting_skills_test.git
   **Node Modules**
    I have not added the node modukes in git ignore list because it is not a ERP project so, you can easily serve the app on browser by using "ng serve/npm start" command and if not working then use command "npm install"
+ 
+ For json server:
+ **Json server run command**
+   json-server --watch db.json
    
 ## Development server
 
