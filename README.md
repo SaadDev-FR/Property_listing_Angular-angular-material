@@ -1,7 +1,7 @@
 # Property_lesting_skills_test
   This project is skills test and i have implement property listing and it's details by using angular,angular material, json server, and rxjs subject.
   When user clicks on any product user will redirect to details page by using product id and sending this id as argument to endpoint to get product details aganist 
-  the product.We have implement the rxjs subject to communicate between header component and landing page component to toggle the view i.e card view/ table view.
+  the product.We have implement the rxjs subject to communicate between header component and landing page component to toggle the view i.e card view/ table view.There are only 4 products i have added but it shows dynamically, I mean if 30 products in DB then it will display 30 if 60 then sixty.
   
   First of all clone the repository by using this link (https://github.com/saad5112/Property_lesting_skills_test.git)
   **Command** 
