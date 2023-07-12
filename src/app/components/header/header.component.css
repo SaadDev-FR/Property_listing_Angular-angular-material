@@ -1,0 +1,12 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.table-view {
+  padding-left: 20px;
+  justify-content: center;
+}
+
+.card-view-btn {
+  padding-left: 7px;
+}

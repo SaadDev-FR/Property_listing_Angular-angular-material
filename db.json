@@ -1,0 +1,108 @@
+{
+  "listings": [
+    {
+      "id": 1,
+      "imageUrl": "/assets/images/1.jpg",
+      "Title": "1 Kanal House for sale",
+      "Address": "DHA Phase 6, Lahore",
+      "Beds": 5,
+      "Bath": 6,
+      "Area": 2350,
+      "Type": "house",
+      "isCommercial": false,
+      "Price": 65000000
+    },
+    {
+      "id": 2,
+      "imageUrl": "/assets/images/2.jpg",
+      "Title": "2 Kanal House for sale",
+      "Address": "Bahria town Phase 4, rawalpindi",
+      "Beds": 3,
+      "Bath": 3,
+      "Area": 3050,
+      "Type": "house",
+      "isCommercial": true,
+      "Price": 95000000
+    },
+    {
+      "id": 3,
+      "imageUrl": "/assets/images/3.jpg",
+      "Title": "3 Kanal House for sale",
+      "Address": "DHA Phase 4, Lahore",
+      "Beds": 4,
+      "Bath": 4,
+      "Area": 2050,
+      "Type": "house",
+      "isCommercial": false,
+      "Price": 85000000
+    },
+    {
+      "id": 4,
+      "imageUrl": "/assets/images/4.jpg",
+      "Title": "5 marla House for sale",
+      "Address": "Naval Anchourage, islamabad",
+      "Beds": 3,
+      "Bath": 3,
+      "Area": 5050,
+      "Type": "house",
+      "isCommercial": false,
+      "Price": 75000000
+    }
+
+  ],
+  "details": [
+    {
+      "id": 1,
+      "imageUrl": "/assets/images/1.jpg",
+      "Title": "1 Kanal House for sale",
+      "Address": "DHA Phase 6, Lahore",
+      "Beds": "There are 5 beds in this room and each room has 25*25 size and we will set only one bed in each room",
+      "Bath": "there are 6 bath rooms 5 are attach bathrooms with rooms and single is seperate in garage",
+      "Area": "Total area of this apartment is 2350 square feet.There is Tv lounge, 5 bed rooms with attach bathrooms,and a car porch where both vehicles i.e car, bike can easily parked",
+      "Type": "It is house type apartment which is enough for 10 family members",
+      "isCommercial": "it is residential not commercial",
+      "Price": 65000000
+    },
+    {
+      "id": 2,
+      "imageUrl": "/assets/images/2.jpg",
+      "Title": "1 Kanal House for sale",
+      "Address": "DHA Phase 6, Lahore",
+      "Beds": "There are 3 beds in this room and each room has 25*25 size and we will set only one bed in each room",
+      "Bath": "there are 4 bath rooms 3 are attach bathrooms with rooms and single is seperate in Momty for drivers",
+      "Area": "Total area of this apartment is 3050 square feet.There is Tv lounge, 3 bed rooms with attach bathrooms,and a car porch where both vehicles i.e car, bike can easily parked",
+      "Type": "It is house type apartment which is enough for 5 family members",
+      "isCommercial": "it is commercial",
+      "Price": 95000000
+    },
+    {
+      "id": 3,
+      "imageUrl": "/assets/images/3.jpg",
+      "Title": "1 Kanal House for sale",
+      "Address": "DHA Phase 6, Lahore",
+      "Beds": "There are 4 beds in this room and each room has 25*25 size and we will set only one bed in each room",
+      "Bath": "there are 5 bath rooms 4 are attach bathrooms with rooms and single is seperate in garage",
+      "Area": "Total area of this apartment is 2050 square feet.There is Tv lounge, 4 bed rooms with attach bathrooms,and a car porch where both vehicles i.e car, bike can easily parked",
+      "Type": "It is house type apartment which is enough for 5 family members",
+      "isCommercial": "it is residential not commercial",
+      "Price": 85000000
+    },
+    {
+      "id": 4,
+      "imageUrl": "/assets/images/4.jpg",
+      "Title": "1 Kanal House for sale",
+      "Address": "DHA Phase 6, Lahore",
+      "Beds": "There are 3 beds in this room and each room has 25*25 size and we will set only one bed in each room",
+      "Bath": "there are 4 bath rooms 3 are attach bathrooms with rooms and single is seperate in garage",
+      "Area": "Total area of this apartment is 5050 square feet.There is Tv lounge, 3 bed rooms with attach bathrooms,and a car porch where both vehicles i.e car, bike can easily parked",
+      "Type": "It is house type apartment which is enough for 5 family members",
+      "isCommercial": "it is residential not commercial",
+      "Price": 75000000
+    }
+
+  ]
+}
+
+
+
+

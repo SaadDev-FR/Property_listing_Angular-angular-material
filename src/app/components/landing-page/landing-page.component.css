@@ -1,0 +1,59 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.mat-card {
+  width: calc(20% - 23px);
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.mat-card-actions button {
+  padding: 0 0 0 10px;
+}
+
+.mat-card-image {
+  width: calc(100% + 32px);
+  margin: 0 -16px 16px -16px;
+  display: block;
+  overflow: hidden;
+  height: 200px;
+}
+
+.car-container {
+  justify-items: center;
+}
+
+.mat-cell {
+  padding-left: 10px;
+}
+
+.mat-table {
+  background: grey
+}
+
+mat-header-row {
+  min-height: 56px;
+  background: #424242;
+}
+
+.table-view {
+  padding: 30px;
+}
+
+mat-cell:first-of-type,
+mat-header-cell:first-of-type,
+mat-footer-cell:first-of-type {
+  padding-left: 12px;
+}
+
+.card-view-heading {
+  padding-left: 114px;
+  padding-top: 30px;
+}
+
+.mat-btn {
+  color: #041aed;
+}

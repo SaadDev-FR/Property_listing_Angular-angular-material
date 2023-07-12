@@ -1,0 +1,19 @@
+<mat-card *ngIf="listing">
+  <mat-card-header>
+    <div class="card-header">
+      <mat-card-title>{{ listing.Title }}</mat-card-title>
+      <mat-card-subtitle>{{ listing.Address }}</mat-card-subtitle>
+    </div>
+  </mat-card-header>
+
+  <img mat-card-image [src]="listing.imageUrl" alt="Property Image">
+
+  <mat-card-content>
+    <p><b>Beds:</b> {{ listing.Beds }}</p>
+    <p><b>Bath:</b> {{ listing.Bath }}</p>
+    <p><b>Covered Area:</b> {{ listing.Area }} sqft</p>
+    <p><b>Property Type:</b> {{ listing.Type }}</p>
+    <p><b>Commercial:</b> {{ listing.isCommercial ? 'Yes' : 'No' }}</p>
+    <p><b>Price:</b> ${{ listing.Price | number: '1.1-1' }}</p>
+  </mat-card-content>
+</mat-card>
