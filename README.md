@@ -1,9 +1,14 @@
-# PropertyListingsApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
-
+# Property_lesting_skills_test
+  This project is skills test and i have implement property listing and it's details by using angular,angular material, json server, and rcjs subject.
+  When user clicks on any product user will redirect to details page by using product id and sending this id as argument to endpoint to get product details aganist 
+  the product id.We have implement the rxjs subject to communicate between header component and landing page component to toggle the view.
+  
+  First of all clone the repository by using this link (https://github.com/saad5112/Property_lesting_skills_test.git)
+  **Command** 
+  git clone https://github.com/saad5112/Property_lesting_skills_test.git
+  **Node Modules**
+   I have not added the node modules in git repository so, you will use **npm install** before this command "ng serve/npm start" command to serve the app on bowser.   
 ## Development server
-
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
