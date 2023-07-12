@@ -24,8 +24,8 @@
 <ng-container *ngIf="showCardView">
   <h2 class="card-view-heading">Card View</h2>
   <div class="card-container">
-    <mat-card *ngFor="let listing of dataSource?.data">
-      <mat-card-header [routerLink]="['/details', listing.id]">
+    <mat-card *ngFor="let listing of dataSource?.data" [routerLink]="['/details', listing.id]">
+      <mat-card-header >
         <div class="card-header">
           <mat-card-title>{{ listing.Title }}</mat-card-title>
           <mat-card-subtitle>{{ listing.Address }}</mat-card-subtitle>
